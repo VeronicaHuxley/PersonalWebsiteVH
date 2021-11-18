@@ -1,0 +1,94 @@
+
+
+<!DOCTYPE html>
+<head>
+  <title>Veronica Huxley</title>
+  <link href="/normalize.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  
+  <style>
+  body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+  
+    body {
+      text-align: center;
+      color:white;
+      background-image: url("https://i.imgur.com/jhCoMXR.jpg");
+      height: 105%;
+      width: 100%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-color: white;
+      
+      
+      }
+    h1 {
+      font-size:40px;
+    }
+    p {
+      color: black;
+      font-family: "Montserrat";
+      font-size: 20px;
+    }
+    .myimg {
+    object-fit:cover;
+    border-radius: 1000px;
+    text-align: center;
+    }
+      
+  </style>
+
+</head>
+
+<body>
+    
+    <br><br><img src="https://i.imgur.com/rcaH60u.jpg" class="myimg" style="display:block;height: 365px;margin:auto;">
+    </br></br>
+
+<header class="w3-container w3-padding-32 w3-center w3-white">
+
+  <h1 class="w3-xxxlarge"> <b>Veronica Huxley</b> </h1>
+  <p class="w3-wide"> Aspiring Software Engineer</p>
+  <h3><b>Welcome to my universe!</b></h3>
+</header>
+
+
+
+<br><br><div class="w3-section w3-content w3-justify w3-padding-64 w3-container" class="aboutme">
+    <br><br><br><br><br><br><br><br><br><h2 class="w3-text-black"><b>About Me</b></h2>
+    <hr style="width:300px" class="w3-opacity">
+
+    
+    <p>I thrive on cultivating co-creative and strategic approaches to architecting solutions that challenge the mindset of the enterprise. Companies no longer lead industries by doing what they already do, and becoming a digital enabler is the new imperative. <br><br>We are fortunate to live in an era where technology and innovation enable people and societies to reinvent our DNA and create an unimaginable and indisputable future nested in the convergence of human interaction and technology. <br><br>I live with an innate drive to overcome the challenges facing our world by harnessing the magic of computers! Game on.</br>
+    </p>
+   
+    <br><br><h2 class="w3-text-black"><b>Contact Me<b></h2>
+    <hr style="width:300px" class="w3-opacity">
+
+<div class="w3-section">
+      <p><i class="fa fa-map-marker fa-fw w3-text-black w3-xxlarge w3-margin-right"></i> Miami, FL</p>
+      <p><i class="fa fa-envelope fa-fw w3-text-black w3-xxlarge w3-margin-right"> </i> huxleyveronica@gmail.com</p>
+    </div><br>
+    
+    <p>Let's connect! Send me a message:</p>
+    
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Email" required name="Email"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Subject" required name="Subject"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message" required name="Message"></p>
+      <p>
+        <button class="w3-button w3-light-grey w3-padding-large" type="submit">
+          <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        </button>
+      </p>
+    </form>
+
+</body>
+
+
