@@ -1,4 +1,4 @@
-# PersonalWebsiteVH
+# veronicahuxley.github.io
 
 Hello!
 
